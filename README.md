@@ -48,7 +48,7 @@
 > docker compose up --build
 
 
-Инициализация ClickHouse
+Инициализация БД в ClickHouse
 
 > docker cp ddl.sql clickhouse:/ddl.sql
 > 
